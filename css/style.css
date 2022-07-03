@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    margin-top: -5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: red;
+}
+.peragraph p{
+    text-align: justify;
+    display: block;
+    padding: 4px;
+}
+.first-part { 
+    display: flex;
+    justify-content: center;   
+}
+
+div .peragraph{
+    background-color: aqua;
+    display: inline-block;
+    margin: 10px auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 30%;  
+}
+
+div .four{
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+
+
+
+
