@@ -36,6 +36,18 @@ div .four{
     display: inline-block;
     
 }
+.picture-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.picture{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
 
 
 
